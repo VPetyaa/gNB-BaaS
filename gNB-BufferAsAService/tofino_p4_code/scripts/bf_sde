@@ -1,0 +1,8 @@
+pm
+port-del -/-
+port-dis -/-
+port-add 1/- 100G RS
+port-add 2/- 100G RS
+port-enb 1/-
+port-enb 2/-
+show

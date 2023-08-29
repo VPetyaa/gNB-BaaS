@@ -1,0 +1,6 @@
+ucli
+pm port-add 1/- 100g RS
+pm port-add 2/- 100g RS
+pm port-enb -/-
+end
+bfrt_python /p4sde/eptrptt/ig-port-fwd/scripts/setup.py
